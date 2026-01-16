@@ -229,7 +229,7 @@ Additional repositories for academic projects, network automation scripts, and i
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wokding&label=Profile%20Views&color=0066cc&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/wokding?label=Followers&style=for-the-badge&color=00C18E&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/wokding? label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/wokding?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)
 
 ### 📅 Contribution Graph
 
@@ -241,7 +241,7 @@ Additional repositories for academic projects, network automation scripts, and i
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/? username=wokding&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=wokding&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
