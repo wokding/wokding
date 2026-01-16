@@ -230,7 +230,7 @@ Additional repositories for academic projects, network automation scripts, and i
 <table>
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=wokding?label=Profile Views&style=for-the-badge&color=00C18E&logo=github" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=wokding&label=Profile Views&style=for-the-badge&color=00C18E&logo=github" alt="Profile Views"/>
 <br><strong>Profile Views</strong>
 </td>
 <td align="center">
