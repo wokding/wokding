@@ -60,38 +60,48 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 
 ## 💼 Professional Experience
 
-### 🔹 Network Engineer — PT NEC Indonesia
-**Feb 2023 - Dec 2025** | South Jakarta
-- Design, implement, and maintain LAN, WAN, and VPN network infrastructures
-- Configure, manage, and troubleshoot routers, switches, and firewalls
-- Monitor network performance to ensure high availability, reliability, and security
-- Handle network incidents, root cause analysis, and change management activities
-- Coordinate with internal teams and clients for on-site technical support
-- Develop and maintain network documentation, configurations, and topology diagrams
+<table>
+<tr>
+<td width="50%">
 
-### 🔹 IT Support Technician — PT NEC Indonesia
-**Apr 2018 - Feb 2023** | South Jakarta
-- Provided daily technical support for hardware, software, and network issues
-- Installed, configured, and maintained PCs, laptops, printers, and peripherals
-- Troubleshot Windows OS and office productivity applications
-- Supported basic networking including LAN, Wi-Fi, and IP addressing
-- Managed IT support tickets, escalation processes, and asset documentation
+**🔹 Network Engineer**  
+![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square)
+![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green? style=flat-square)
 
-### 🔹 IT Consultant (Engineering on Site) — PT Kimia Farma Apotek
-**Jan 2018 - Sep 2018** | Bekasi
-- Delivered on-site IT support for retail pharmacy branches
-- Installed and maintained POS systems and branch network infrastructure
-- Troubleshot internal applications and operational systems
-- Coordinated incident resolution with head-office IT teams
-- Provided user training and ensured operational system stability
+Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equipment • Network monitoring & incident management • Documentation & topology diagrams
 
-### 🔹 Administration Project — PT Tirta Alam Segar (Wings Food)
-**Jun 2016 - Aug 2017** | Cibitung
-- Managed project administrative documentation and reports
-- Supported coordination between project teams and related stakeholders
-- Monitored project progress and prepared periodic status reports
-- Handled document control, filing, and correspondence
-- Provided administrative support for on-site project operations
+</td>
+<td width="50%">
+
+**🔹 IT Support Technician**  
+![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square)
+![Period](https://img.shields.io/badge/Apr_2018-Feb_2023-blue?style=flat-square)
+
+Hardware/software support • PC/laptop/peripheral maintenance • Windows OS troubleshooting • Network support (LAN, Wi-Fi, IP addressing) • IT ticketing system
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔹 IT Consultant**  
+![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square)
+![Period](https://img.shields.io/badge/Jan_2018-Sep_2018-orange?style=flat-square)
+
+On-site IT support for pharmacy branches • POS system maintenance • Network infrastructure setup • User training & system stability
+
+</td>
+<td width="50%">
+
+**🔹 Administration Project**  
+![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square)
+![Period](https://img.shields.io/badge/Jun_2016-Aug_2017-purple?style=flat-square)
+
+Project documentation & reports • Team coordination • Progress monitoring • Document control & correspondence
+
+</td>
+</tr>
+</table>
 
 ---
 
