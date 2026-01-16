@@ -131,7 +131,7 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 <td width="50%" valign="top">
 
 ### 🎬 [Professional Portfolio Website](https://github.com/wokding/ade-portfolio)
-[![Portfolio](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel&logoColor=white)](https://wokding.github.io/ade-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live-Demo-success? style=flat-square&logo=vercel&logoColor=white)](https://wokding.github.io/ade-portfolio/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/wokding/ade-portfolio)
 
 Modern, responsive portfolio showcasing network engineering expertise, Juniper certifications, and technical projects in IoT, web development, and data mining.
@@ -159,7 +159,7 @@ Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, 
 <td width="50%" valign="top">
 
 ### 💼 [Sales Information System](https://github.com/wokding/sifopenjualan)
-[![Live](https://img.shields.io/badge/Live-Demo-success? style=flat-square)](http://sipenjual.free.nf)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](http://sipenjual.free.nf)
 [![CI3](https://img.shields.io/badge/CodeIgniter-3%20%26%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://github.com/wokding/sifopenjualan)
 
 Web-based POS and inventory management system with user management, master data, sales transactions, and Excel import/export. 
@@ -171,7 +171,7 @@ Web-based POS and inventory management system with user management, master data,
 <td width="50%" valign="top">
 
 ### 📊 [Sales Data Mining - Apriori Algorithm](https://github.com/wokding/apriori)
-[![Live](https://img.shields.io/badge/Live-Demo-success? style=flat-square)](http://siapriori.free.nf)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](http://siapriori.free.nf)
 [![Thesis](https://img.shields.io/badge/Thesis-Cum%20Laude-FFD700?style=flat-square)](https://github.com/wokding/apriori)
 
 Undergraduate thesis project Implementation of Data Mining Sales of Over-the-counter Drugs with Apriori Algorithm (Case Study: Kimia Farma Pharmacy Summarecon Bekasi).
@@ -199,9 +199,11 @@ Comprehensive network monitoring and reporting solution for enterprise infrastru
 
 ### 🎓 Academic & Internal Tools
 
+[![All Repos](https://img.shields.io/badge/View-All_Repositories-0066cc?style=flat-square&logo=github&logoColor=white)](https://github.com/wokding?tab=repositories)
+
 Additional repositories for academic projects, network automation scripts, and internal tooling to support network engineering operations.
 
-[View All Repositories →](https://github.com/wokding?tab=repositories)
+**Categories:** Academic Projects • Automation Scripts • Internal Tools
 
 </td>
 </tr>
