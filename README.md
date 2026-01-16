@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">🌐 Network Engineer | Routing & Switching Specialist | IoT Enthusiast</h3>
+<h3 align="center">🌐 Network Engineer | Routing & Switching Specialist | Web Development | IoT Enthusiast</h3>
 
 <p align="center">
   <em>Focused on maintaining high-availability and secure network infrastructures in enterprise and mission-critical environments</em>
