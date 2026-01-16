@@ -221,13 +221,29 @@ Additional repositories for academic projects, network automation scripts, and i
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity & Contributions
 
-![](https://github-readme-stats.vercel.app/api?username=wokding&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wokding&layout=compact&theme=tokyonight)
+### 📈 Contribution Metrics
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=wokding&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=wokding&label=Profile%20Views&color=0066cc&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/wokding?label=Followers&style=for-the-badge&color=00C18E&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/wokding? label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)
+
+### 📅 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wokding/wokding/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wokding/wokding/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wokding/wokding/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/? username=wokding&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
 
 ---
 
