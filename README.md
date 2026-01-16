@@ -171,7 +171,7 @@ Web-based POS and inventory management system with user management, master data,
 <td width="50%" valign="top">
 
 ### 📊 [Sales Data Mining - Apriori Algorithm](https://github.com/wokding/apriori)
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](http://siapriori.free.nf)
+[![Live](https://img.shields.io/badge/Live-Demo-success? style=flat-square)](http://siapriori.free.nf)
 [![Thesis](https://img.shields.io/badge/Thesis-Cum%20Laude-FFD700?style=flat-square)](https://github.com/wokding/apriori)
 
 Undergraduate thesis project Implementation of Data Mining Sales of Over-the-counter Drugs with Apriori Algorithm (Case Study: Kimia Farma Pharmacy Summarecon Bekasi).
