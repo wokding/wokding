@@ -221,27 +221,46 @@ Additional repositories for academic projects, network automation scripts, and i
 
 ---
 
-## 📊 GitHub Activity & Contributions
+## 📊 GitHub Activity
 
 <div align="center">
 
-### 📈 Contribution Metrics
+### 🎯 GitHub Metrics
 
-![Profile Views](https://komarev.com/ghpvc/?username=wokding&label=Profile%20Views&color=0066cc&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/wokding?label=Followers&style=for-the-badge&color=00C18E&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/wokding?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json? logo=github&label=Profile%20Views&style=for-the-badge&color=0066cc&query=%24.value&url=https%3A%2F%2Fapi.github-star-counter. workers.dev%2Fuser%2Fwokding" alt="Profile Views"/>
+<br><strong>Profile Views</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/wokding?label=Followers&style=for-the-badge&color=00C18E&logo=github" alt="Followers"/>
+<br><strong>Followers</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/wokding?label=Stars&style=for-the-badge&color=FFD700&logo=github" alt="Stars"/>
+<br><strong>Total Stars</strong>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Repositories-View%20All-0066cc?style=for-the-badge&logo=github" alt="Repos"/>
+<br><a href="https://github.com/wokding? tab=repositories"><strong>Public Repositories</strong></a>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Contributions-Active-00C18E?style=for-the-badge&logo=github" alt="Contributions"/>
+<br><strong>Daily Active</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Code-Open%20Source-FF6B00?style=for-the-badge&logo=github" alt="Open Source"/>
+<br><strong>Open Source</strong>
+</td>
+</tr>
+</table>
 
-### 📅 Contribution Graph
+### 📅 Recent Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wokding/wokding/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wokding/wokding/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wokding/wokding/output/github-contribution-grid-snake.svg">
-</picture>
-
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=wokding&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+Check out my [GitHub profile](https://github.com/wokding) to see recent contributions and projects!
 
 </div>
 
