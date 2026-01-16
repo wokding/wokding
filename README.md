@@ -66,7 +66,7 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 
 **🔹 Network Engineer**  
 ![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square)
-![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green? style=flat-square)
+![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green?style=flat-square)
 
 Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equipment • Network monitoring & incident management • Documentation & topology diagrams
 
