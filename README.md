@@ -14,14 +14,14 @@
   <a href="https://wokding.github.io/ade-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0066cc?style=for-the-badge&logo=wifi&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ade-naufal-rianto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adenaufalr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/6281385436440"><img src="https://img.shields.io/badge/WhatsApp-25D366? style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://wa.me/6281385436440"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Network Engineer with expertise in designing, implementing, and maintaining **high-availability network infrastructures** for enterprise and mission-critical environments. Experienced in operational excellence, incident management, and continuous service improvement, with strong attention to reliability, documentation, and teamwork.
+Network Engineer with expertise in designing, implementing, and maintaining **high-availability network infrastructures** for enterprise and mission-critical environments.  Experienced in operational excellence, incident management, and continuous service improvement, with strong attention to reliability, documentation, and teamwork.
 
 - 🌐 **Core Expertise:** Enterprise Network Design & Operations
 - 🔧 **Specialization:** Juniper JunOS (MX, EX, SRX Series)
@@ -146,7 +146,7 @@ Modern, responsive portfolio showcasing network engineering expertise, Juniper c
 [![Arduino](https://img.shields.io/badge/Arduino-C++-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/wokding/arduino-doorlock-NEW)
 [![Demo](https://img.shields.io/badge/Wokwi-Simulation-4CAF50?style=flat-square)](https://wokwi.com)
 
-Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, relay, and PIR sensor. 
+Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, relay, and PIR sensor.
 
 **Tech Stack:** C/C++, Arduino  
 **Components:** Keypad, RFID, LCD Display, Real-time Clock  
@@ -197,9 +197,11 @@ Comprehensive network monitoring and reporting solution for enterprise infrastru
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Academic & Internal Tools](https://github.com/wokding? tab=repositories)
+### 🎓 Academic & Internal Tools
 
-Additional repositories for academic projects, network automation scripts, and internal tooling to support network engineering operations. 
+Additional repositories for academic projects, network automation scripts, and internal tooling to support network engineering operations.
+
+[View All Repositories →](https://github.com/wokding?tab=repositories)
 
 </td>
 </tr>
@@ -258,7 +260,7 @@ Additional repositories for academic projects, network automation scripts, and i
   <a href="https://www.linkedin.com/in/ade-naufal-rianto">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:adenaufalr@gmail. com">
+  <a href="mailto:adenaufalr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/6281385436440">
