@@ -246,20 +246,20 @@ Additional repositories for academic projects, network automation scripts, and i
 
 ## 🎓 Education
 
-**Bachelor of Computer Science** - Universitas Bhayangkara Jakarta Raya  
-🏅 **Cum Laude** | GPA: 3.59/4.00 | 2017 - 2021
+**Bachelor of Computer Science** • Universitas Bhayangkara Jakarta Raya  
+![Cum Laude](https://img.shields.io/badge/🏅_Cum_Laude-GPA_3.59/4.00-FFD700?style=flat-square) ![Period](https://img.shields.io/badge/📅_2017-2021-0066cc?style=flat-square)
 
-**Focus:** Computer Networks, Information Systems, and Basic Software Development  
-**Thesis:** *Implementation of Data Mining Sales of Over-the-counter Drugs with Apriori Algorithm (Case Study: Kimia Farma Pharmacy Summarecon Bekasi)*
+**Focus:** Computer Networks • Information Systems • Software Development  
+**Thesis:** *Data Mining Sales Analysis Using Apriori Algorithm (Kimia Farma Pharmacy)*
 
-### 🎭 Student Organization & Leadership Experience
+---
 
-**Chief Organizer** - *Penanniversary:  Poetry Night – Harmoni Simfoni*  
-**Pena Muda Student Activity Unit (UKM)** | Campus Literary & Creative Organization
+### 🎭 Leadership Experience
 
-- Coordinated event planning and managed organizing committee
-- Oversaw event execution and ensured collaboration between internal members and external participants
-- Event received public attention and was covered by national media
+**Chief Organizer** • *Penanniversary:  Poetry Night – Harmoni Simfoni*  
+**Pena Muda UKM** | Campus Literary & Creative Organization
+
+Event planning & committee management • Collaboration coordination • National media coverage
 
 ---
 
