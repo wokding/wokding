@@ -230,7 +230,7 @@ Additional repositories for academic projects, network automation scripts, and i
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json? logo=github&label=Profile%20Views&style=for-the-badge&color=0066cc&query=%24.value&url=https%3A%2F%2Fapi.github-star-counter. workers.dev%2Fuser%2Fwokding" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Profile%20Views&style=for-the-badge&color=0066cc&query=%24.value&url=https%3A%2F%2Fapi.github-star-counter. workers.dev%2Fuser%2Fwokding" alt="Profile Views"/>
 <br><strong>Profile Views</strong>
 </td>
 <td align="center">
@@ -328,7 +328,6 @@ Event planning & committee management • Collaboration coordination • Nationa
 
 ### 💡 "Focused on maintaining high-availability and secure network infrastructures in enterprise and mission-critical environments"
 
-<img src="https://komarev.com/ghpvc/?username=wokding&label=Profile%20Views&color=0066cc&style=flat-square" alt="Profile Views"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=120&section=footer" />
 
