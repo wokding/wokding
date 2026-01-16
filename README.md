@@ -223,24 +223,11 @@ Additional repositories for academic projects, network automation scripts, and i
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=wokding&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wokding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wokding&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wokding&layout=compact&theme=tokyonight)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wokding&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph? username=wokding&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wokding&theme=tokyonight)
 
 ---
 
