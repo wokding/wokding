@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=200&section=header&text=Ade%20Naufal%20Rianto&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20%7C%20Juniper%20Certified%20Professional&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=200&section=header&text=Ade%20Naufal%20Rianto&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20%7C%20Juniper%20Certified%20Specialist&descAlignY=55&descAlign=50" />
 
 </div>
 
