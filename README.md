@@ -230,7 +230,7 @@ Additional repositories for academic projects, network automation scripts, and i
 <table>
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=wokding&label=Profile Views&style=for-the-badge&color=00C18E&logo=github" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=wokding&label=Profile Views%style=for-the-badge&color=00C18E&logo=github" alt="Profile Views"/>
 <br><strong>Profile Views</strong>
 </td>
 <td align="center">
@@ -245,7 +245,7 @@ Additional repositories for academic projects, network automation scripts, and i
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/Repositories-View%20All-0066cc?style=for-the-badge&logo=github" alt="Repos"/>
-<br><a href="https://github.com/wokding? tab=repositories"><strong>Public Repositories</strong></a>
+<br><strong>Public Repositories</strong></a>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Contributions-Active-00C18E?style=for-the-badge&logo=github" alt="Contributions"/>
