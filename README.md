@@ -131,7 +131,7 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 <td width="50%" valign="top">
 
 ### 🎬 [Professional Portfolio Website](https://github.com/wokding/ade-portfolio)
-[![Portfolio](https://img.shields.io/badge/Live-Demo-success? style=flat-square&logo=vercel&logoColor=white)](https://wokding.github.io/ade-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel&logoColor=white)](https://wokding.github.io/ade-portfolio/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/wokding/ade-portfolio)
 
 Modern, responsive portfolio showcasing network engineering expertise, Juniper certifications, and technical projects in IoT, web development, and data mining.
