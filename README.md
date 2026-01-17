@@ -124,8 +124,8 @@ Project documentation & reports • Team coordination • Progress monitoring �
 ### Monitoring & Management
 ![Network Monitoring](https://img.shields.io/badge/Monitoring-SNMP%20%7C%20Syslog%20%7C%20NTP-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-Topology_Diagram-4CAF50?style=flat-square)
-![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square)
+![Documentation](https://img.shields.io/badge/Documentation-Topology_Diagram-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=cacti&logoColor=white)
 
 ### Development & Automation
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
