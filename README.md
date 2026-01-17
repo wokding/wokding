@@ -272,7 +272,7 @@ Check out my [GitHub profile](https://github.com/wokding) to see recent contribu
 ![Cum Laude](https://img.shields.io/badge/🏅_Cum_Laude-GPA_3.59/4.00-FFD700?style=flat-square) ![Period](https://img.shields.io/badge/📅_2017-2021-0066cc?style=flat-square)
 
 **Focus:** Computer Networks • Information Systems • Software Development  
-**Thesis:** *Data Mining Sales Analysis Using Apriori Algorithm (Kimia Farma Pharmacy)*
+**Thesis:** *Implementation of Data Mining Sales of Over-the-counter Drugs with Apriori Algorithm (Case Study: Kimia Farma Pharmacy Summarecon Bekasi)*
 
 ---
 
