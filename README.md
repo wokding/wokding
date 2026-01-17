@@ -33,7 +33,6 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 ---
 
 ## 🏆 Professional Certifications
-<div align="center">
   
 <table>
   <tr>
