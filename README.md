@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://wokding.github.io/ade-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0066cc?style=for-the-badge&logo=wifi&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ade-naufal-rianto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:adenaufalr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335? style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:adenaufalr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://wa.me/6281385436440"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
@@ -66,7 +66,7 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 
 **🔹 Network Engineer**  
 ![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square)
-![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green? style=flat-square)
+![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green?style=flat-square)
 
 Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equipment • Network monitoring & incident management • Documentation & topology diagrams
 
@@ -123,7 +123,7 @@ Project documentation & reports • Team coordination • Progress monitoring �
 
 ### Monitoring & Management
 ![Network Monitoring](https://img.shields.io/badge/Monitoring-SNMP%20%7C%20Syslog%20%7C%20NTP-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7? style=flat-square&logo=wireshark&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Documentation-Topology_Diagram-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)
 ![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=prometheus&logoColor=white)
 
@@ -169,7 +169,7 @@ Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, 
 <td width="50%" valign="top">
 
 ### 💼 [Sales Information System](https://github.com/wokding/sifopenjualan)
-[![Live](https://img.shields.io/badge/Live-Demo-success? style=flat-square&logo=internet-archive&logoColor=white)](http://sipenjual.free.nf)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=internet-archive&logoColor=white)](http://sipenjual.free.nf)
 [![CI3](https://img.shields.io/badge/CodeIgniter-3%20%26%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://github.com/wokding/sifopenjualan)
 
 Web-based POS and inventory management system with user management, master data, sales transactions, and Excel import/export.  
@@ -209,7 +209,7 @@ Comprehensive network monitoring and reporting solution for enterprise infrastru
 
 ### 🎓 Academic & Internal Tools
 
-[![All Repos](https://img.shields.io/badge/View-All_Repositories-0066cc?style=flat-square&logo=github&logoColor=white)](https://github.com/wokding? tab=repositories)
+[![All Repos](https://img.shields.io/badge/View-All_Repositories-0066cc?style=flat-square&logo=github&logoColor=white)](https://github.com/wokding?tab=repositories)
 
 Additional repositories for academic projects, network automation scripts, and internal tooling to support network engineering operations.
 
