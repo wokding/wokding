@@ -297,17 +297,30 @@ Event planning & committee management • Collaboration coordination • Nationa
   <a href="https://www.linkedin.com/in/ade-naufal-rianto">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://instagram.com/adenaufalr_1590">
+    <img src="https://img.shields.io/badge/Instagram-@adenaufalr__1590-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/Adenaufalr">
+    <img src="https://img.shields.io/badge/Facebook-Adenaufalr-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:adenaufalr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/6281385436440">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+  <a href="https://www.google.com/maps/place/Bekasi">
+    <img src="https://img.shields.io/badge/Location-Bekasi-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  </a>
 </p>
 
 <p align="center">
-  <strong>📧 Email:</strong> adenaufalr@gmail.com<br>
+  <strong>📧 Email: </strong> adenaufalr@gmail.com<br>
   <strong>📱 WhatsApp:</strong> +62 813-8543-6440<br>
+  <strong>📍 Location:</strong> Bekasi, Indonesia<br>
   <strong>🌐 Portfolio:</strong> <a href="https://wokding.github.io/ade-portfolio/">wokding.github.io/ade-portfolio</a>
 </p>
 
