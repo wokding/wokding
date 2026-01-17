@@ -283,7 +283,7 @@ Check out my [GitHub profile](https://github.com/wokding) to see recent contribu
 
 Event planning & committee management • Collaboration coordination • National media coverage
 
-[![Media Coverage](https://img.shields.io/badge/📰_Media_Coverage-Liputan6. com-E60012?style=flat-square&logo=minutemailer&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
+[![Media Coverage](https://img.shields.io/badge/📰_Media_Coverage-Liputan6.com-E60012?style=flat-square&logo=minutemailer&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
 [![Event](https://img.shields.io/badge/🎭_Poetry_Night-Harmoni_Simfoni-9B59B6?style=flat-square&logo=eventbrite&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
 
 ---
