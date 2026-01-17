@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://wokding.github.io/ade-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0066cc?style=for-the-badge&logo=wifi&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ade-naufal-rianto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:adenaufalr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:adenaufalr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335? style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://wa.me/6281385436440"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Network Engineer with expertise in designing, implementing, and maintaining **high-availability network infrastructures** for enterprise and mission-critical environments.  Experienced in operational excellence, incident management, and continuous service improvement, with strong attention to reliability, documentation, and teamwork.
+Network Engineer with expertise in designing, implementing, and maintaining **high-availability network infrastructures** for enterprise and mission-critical environments. Experienced in operational excellence, incident management, and continuous service improvement, with strong attention to reliability, documentation, and teamwork.
 
 - 🌐 **Core Expertise:** Enterprise Network Design & Operations
 - 🔧 **Specialization:** Juniper JunOS (MX, EX, SRX Series)
@@ -66,7 +66,7 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 
 **🔹 Network Engineer**  
 ![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square)
-![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green?style=flat-square)
+![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green? style=flat-square)
 
 Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equipment • Network monitoring & incident management • Documentation & topology diagrams
 
@@ -123,13 +123,13 @@ Project documentation & reports • Team coordination • Progress monitoring �
 
 ### Monitoring & Management
 ![Network Monitoring](https://img.shields.io/badge/Monitoring-SNMP%20%7C%20Syslog%20%7C%20NTP-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7? style=flat-square&logo=wireshark&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Documentation-Topology_Diagram-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)
 ![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=prometheus&logoColor=white)
 
 ### Development & Automation
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Web_Apps-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
@@ -154,7 +154,7 @@ Modern, responsive portfolio showcasing network engineering expertise, Juniper c
 
 ### 🔌 [IoT Smart Door Lock System](https://github.com/wokding/arduino-doorlock-NEW)
 [![Arduino](https://img.shields.io/badge/Arduino-C++-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/wokding/arduino-doorlock-NEW)
-[![Demo](https://img.shields.io/badge/Wokwi-Simulation-4CAF50?style=flat-square)](https://wokwi.com)
+[![Demo](https://img.shields.io/badge/Wokwi-Simulation-4CAF50?style=flat-square&logo=wokwi&logoColor=white)](https://wokwi.com)
 
 Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, relay, and PIR sensor.
 
@@ -169,10 +169,10 @@ Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, 
 <td width="50%" valign="top">
 
 ### 💼 [Sales Information System](https://github.com/wokding/sifopenjualan)
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](http://sipenjual.free.nf)
+[![Live](https://img.shields.io/badge/Live-Demo-success? style=flat-square&logo=internet-archive&logoColor=white)](http://sipenjual.free.nf)
 [![CI3](https://img.shields.io/badge/CodeIgniter-3%20%26%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://github.com/wokding/sifopenjualan)
 
-Web-based POS and inventory management system with user management, master data, sales transactions, and Excel import/export. 
+Web-based POS and inventory management system with user management, master data, sales transactions, and Excel import/export.  
 
 **Tech Stack:** CodeIgniter 3 & 4, Bootstrap, MySQL  
 **Features:** Role-based Access, Reporting, Responsive Design
@@ -181,8 +181,8 @@ Web-based POS and inventory management system with user management, master data,
 <td width="50%" valign="top">
 
 ### 📊 [Sales Data Mining - Apriori Algorithm](https://github.com/wokding/apriori)
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](http://siapriori.free.nf)
-[![Thesis](https://img.shields.io/badge/Thesis-Cum%20Laude-FFD700?style=flat-square)](https://github.com/wokding/apriori)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=internet-archive&logoColor=white)](http://siapriori.free.nf)
+[![Thesis](https://img.shields.io/badge/Thesis-Cum%20Laude-FFD700?style=flat-square&logo=academia&logoColor=white)](https://github.com/wokding/apriori)
 
 Undergraduate thesis project Implementation of Data Mining Sales of Over-the-counter Drugs with Apriori Algorithm (Case Study: Kimia Farma Pharmacy Summarecon Bekasi).
 
@@ -199,7 +199,7 @@ Undergraduate thesis project Implementation of Data Mining Sales of Over-the-cou
 ### 🖧 [Network Monitoring System](https://github.com/wokding/monitoringnetwork)
 [![Python](https://img.shields.io/badge/Python-Network%20Tool-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/wokding/monitoringnetwork)
 
-Comprehensive network monitoring and reporting solution for enterprise infrastructure management with automated data collection. 
+Comprehensive network monitoring and reporting solution for enterprise infrastructure management with automated data collection.  
 
 **Tech Stack:** Python  
 **Features:** Automated Collection, Performance Metrics, Reporting
@@ -209,7 +209,7 @@ Comprehensive network monitoring and reporting solution for enterprise infrastru
 
 ### 🎓 Academic & Internal Tools
 
-[![All Repos](https://img.shields.io/badge/View-All_Repositories-0066cc?style=flat-square&logo=github&logoColor=white)](https://github.com/wokding?tab=repositories)
+[![All Repos](https://img.shields.io/badge/View-All_Repositories-0066cc?style=flat-square&logo=github&logoColor=white)](https://github.com/wokding? tab=repositories)
 
 Additional repositories for academic projects, network automation scripts, and internal tooling to support network engineering operations.
 
@@ -234,25 +234,25 @@ Additional repositories for academic projects, network automation scripts, and i
 <br><strong>Profile Views</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/wokding?label=Followers&style=for-the-badge&color=00C18E&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/wokding?label=Followers&style=for-the-badge&color=00C18E&logo=github&logoColor=white" alt="Followers"/>
 <br><strong>Followers</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/stars/wokding?label=Stars&style=for-the-badge&color=FFD700&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/wokding?label=Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="Stars"/>
 <br><strong>Total Stars</strong>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Repositories-View%20All-0066cc?style=for-the-badge&logo=github" alt="Repos"/>
-<br><strong>Public Repositories</strong></a>
+<img src="https://img.shields.io/badge/Repositories-View%20All-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+<br><strong>Public Repositories</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Contributions-Active-00C18E?style=for-the-badge&logo=github" alt="Contributions"/>
+<img src="https://img.shields.io/badge/Contributions-Active-00C18E?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
 <br><strong>Daily Active</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Code-Open%20Source-FF6B00?style=for-the-badge&logo=github" alt="Open Source"/>
+<img src="https://img.shields.io/badge/Code-Open%20Source-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
 <br><strong>Open Source</strong>
 </td>
 </tr>
@@ -260,7 +260,7 @@ Additional repositories for academic projects, network automation scripts, and i
 
 ### 📅 Recent Activity
 
-Check out my [GitHub profile](https://github.com/wokding) to see recent contributions and projects!
+Check out my [GitHub profile](https://github.com/wokding) to see recent contributions and projects! 
 
 </div>
 
@@ -278,13 +278,13 @@ Check out my [GitHub profile](https://github.com/wokding) to see recent contribu
 
 ### 🎭 Leadership Experience
 
-**Chief Organizer** • *Penanniversary: Poetry Night – Harmoni Simfoni*  
+**Chief Organizer** • *Penanniversary:  Poetry Night – Harmoni Simfoni*  
 **Pena Muda UKM** | Campus Literary & Creative Organization
 
 Event planning & committee management • Collaboration coordination • National media coverage
 
-[![Media Coverage](https://img.shields.io/badge/📰_Media_Coverage-Liputan6.com-E60012?style=flat-square&logo=media&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
-[![Event](https://img.shields.io/badge/🎭_Poetry_Night-Harmoni_Simfoni-9B59B6?style=flat-square)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
+[![Media Coverage](https://img.shields.io/badge/📰_Media_Coverage-Liputan6. com-E60012?style=flat-square&logo=minutemailer&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
+[![Event](https://img.shields.io/badge/🎭_Poetry_Night-Harmoni_Simfoni-9B59B6?style=flat-square&logo=eventbrite&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
 
 ---
 
@@ -327,7 +327,6 @@ Event planning & committee management • Collaboration coordination • Nationa
 <div align="center">
 
 ### 💡 "Focused on maintaining high-availability and secure network infrastructures in enterprise and mission-critical environments"
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=120&section=footer" />
 
