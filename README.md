@@ -154,7 +154,7 @@ Modern, responsive portfolio showcasing network engineering expertise, Juniper c
 
 ### 🔌 [IoT Smart Door Lock System](https://github.com/wokding/arduino-doorlock-NEW)
 [![Arduino](https://img.shields.io/badge/Arduino-C++-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/wokding/arduino-doorlock-NEW)
-[![Demo](https://img.shields.io/badge/Wokwi-Simulation-4CAF50?style=flat-square&logo=wokwi&logoColor=white)](https://wokwi.com)
+[![Demo](https://img.shields.io/badge/Wokwi-Simulation-4CAF50?style=flat-square&logo=wokwi&logoColor=white)](https://wokwi.com/projects/439156597558534145)
 
 Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, relay, and PIR sensor.
 
