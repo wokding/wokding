@@ -215,6 +215,10 @@ Additional repositories for academic projects, network automation scripts, and i
 
 **Categories:** Academic Projects • Automation Scripts • Internal Tools
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/wokding?tab=repositories)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/wokding?tab=repositories)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/wokding?tab=repositories)
+
 </td>
 </tr>
 </table>
@@ -230,7 +234,7 @@ Additional repositories for academic projects, network automation scripts, and i
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Profile_Views-58-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Profile_Views-58-0066cc?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
 <br><strong>Profile Views</strong>
 </td>
 <td align="center">
@@ -244,15 +248,15 @@ Additional repositories for academic projects, network automation scripts, and i
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Repositories-View%20All-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+<img src="https://img.shields.io/badge/Repositories-View%20All-0066cc?style=for-the-badge&logo=folder&logoColor=white" alt="Repos"/>
 <br><strong>Public Repositories</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Contributions-Active-00C18E?style=for-the-badge&logo=git&logoColor=white" alt="Contributions"/>
+<img src="https://img.shields.io/badge/Contributions-Active-00C18E?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
 <br><strong>Daily Active</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Code-Open%20Source-FF6B00?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source"/>
+<img src="https://img.shields.io/badge/Code-Open%20Source-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
 <br><strong>Open Source</strong>
 </td>
 </tr>
