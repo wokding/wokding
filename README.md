@@ -123,7 +123,7 @@ Project documentation & reports • Team coordination • Progress monitoring �
 
 ### Monitoring & Management
 ![Network Monitoring](https://img.shields.io/badge/Monitoring-SNMP%20%7C%20Syslog%20%7C%20NTP-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7? style=flat-square&logo=wireshark&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Documentation-Topology_Diagram-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)
 ![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=cacti&logoColor=white)
 
@@ -169,7 +169,7 @@ Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, 
 <td width="50%" valign="top">
 
 ### [Sales Information System](https://github.com/wokding/sifopenjualan)
-[![Live](https://img.shields.io/badge/Live-Demo-success? style=flat-square&logo=firefox&logoColor=white)](http://sipenjual.free.nf)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=firefox&logoColor=white)](http://sipenjual.free.nf)
 [![CI3](https://img.shields.io/badge/CodeIgniter-3%20%26%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://github.com/wokding/sifopenjualan)
 
 Web-based POS and inventory management system with user management, master data, sales transactions, and Excel import/export.   
@@ -209,7 +209,7 @@ Comprehensive network monitoring and reporting solution for enterprise infrastru
 
 ### Academic & Internal Tools
 
-[![All Repos](https://img.shields.io/badge/View-All_Repositories-0066cc?style=flat-square&logo=github&logoColor=white)](https://github.com/wokding? tab=repositories)
+[![All Repos](https://img.shields.io/badge/View-All_Repositories-0066cc?style=flat-square&logo=github&logoColor=white)](https://github.com/wokding?tab=repositories)
 
 Additional repositories for academic projects, network automation scripts, and internal tooling to support network engineering operations.
 
@@ -283,7 +283,7 @@ Check out my [GitHub profile](https://github.com/wokding) to see recent contribu
 
 Event planning & committee management • Collaboration coordination • National media coverage
 
-[![Media Coverage](https://img.shields.io/badge/Media_Coverage-Liputan6. com-E60012?style=flat-square&logo=googlenews&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
+[![Media Coverage](https://img.shields.io/badge/Media_Coverage-Liputan6.com-E60012?style=flat-square&logo=googlenews&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
 [![Event](https://img.shields.io/badge/Poetry_Night-Harmoni_Simfoni-9B59B6?style=flat-square&logo=eventbrite&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
 
 ---
