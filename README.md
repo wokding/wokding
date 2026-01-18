@@ -269,7 +269,7 @@ Check out my [GitHub profile](https://github.com/wokding) to see recent contribu
 ## Education
 
 **Bachelor of Computer Science** • Universitas Bhayangkara Jakarta Raya  
-![Cum Laude](https://img.shields.io/badge/Cum_Laude-GPA_3.59/4.00-FFD700?style=flat-square&logo=googlescholar&logoColor=white) ![Period](https://img.shields.io/badge/2017-2021-0066cc?style=flat-square&logo=calendar&logoColor=white)
+![Cum Laude](https://img.shields.io/badge/Cum_Laude-GPA_3.59/4.00-FFD700?style=flat-square&logo=googlescholar&logoColor=white) ![Period](https://img.shields.io/badge/2017-2021-0066cc?style=flat-square&logo=googlenews&logoColor=white)
 
 **Focus:** Computer Networks • Information Systems • Software Development  
 **Thesis:** *Implementation of Data Mining Sales of Over-the-counter Drugs with Apriori Algorithm (Case Study: Kimia Farma Pharmacy Summarecon Bekasi)*
