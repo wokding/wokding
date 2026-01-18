@@ -65,7 +65,7 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 <td width="50%">
 
 **Network Engineer**  
-![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=building&logoColor=white)
+![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=office&logoColor=white)
 ![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green?style=flat-square&logo=calendar&logoColor=white)
 
 Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equipment • Network monitoring & incident management • Documentation & topology diagrams
@@ -74,7 +74,7 @@ Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equi
 <td width="50%">
 
 **IT Support Technician**  
-![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=building&logoColor=white)
+![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=office&logoColor=white)
 ![Period](https://img.shields.io/badge/Apr_2018-Feb_2023-blue?style=flat-square&logo=calendar&logoColor=white)
 
 Hardware/software support • PC/laptop/peripheral maintenance • Windows OS troubleshooting • Network support (LAN, Wi-Fi, IP addressing) • IT ticketing system
@@ -85,7 +85,7 @@ Hardware/software support • PC/laptop/peripheral maintenance • Windows OS tr
 <td width="50%">
 
 **IT Consultant**  
-![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square&logo=shopify&logoColor=white)
+![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square&logo=medkit&logoColor=white)
 ![Period](https://img.shields.io/badge/Jan_2018-Sep_2018-orange?style=flat-square&logo=calendar&logoColor=white)
 
 On-site IT support for pharmacy branches • POS system maintenance • Network infrastructure setup • User training & system stability
@@ -94,7 +94,7 @@ On-site IT support for pharmacy branches • POS system maintenance • Network 
 <td width="50%">
 
 **Administration Project**  
-![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square&logo=briefcase&logoColor=white)
+![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square&logo=files&logoColor=white)
 ![Period](https://img.shields.io/badge/Jun_2016-Aug_2017-purple?style=flat-square&logo=calendar&logoColor=white)
 
 Project documentation & reports • Team coordination • Progress monitoring • Document control & correspondence
@@ -114,22 +114,22 @@ Project documentation & reports • Team coordination • Progress monitoring �
 
 ### Infrastructure
 ![Juniper](https://img.shields.io/badge/Juniper_JunOS-MX%20%7C%20EX%20%7C%20SRX-00C18E?style=flat-square&logo=juniper-networks&logoColor=white)
-![High Availability](https://img.shields.io/badge/High_Availability-Load_Balancing-00C18E?style=flat-square&logo=scaleway&logoColor=white)
+![High Availability](https://img.shields.io/badge/High_Availability-Load_Balancing-00C18E?style=flat-square&logo=serverless&logoColor=white)
 ![Protocols](https://img.shields.io/badge/Protocols-STP%20%7C%20RSTP%20%7C%20MSTP%20%7C%20MC--LAG-00C18E?style=flat-square&logo=ethernet&logoColor=white)
 
 ### Security
-![Firewall](https://img.shields.io/badge/Firewall-Network_Security-FF6B00?style=flat-square&logo=pfsense&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-Network_Security-FF6B00?style=flat-square&logo=shield&logoColor=white)
 ![IP Addressing](https://img.shields.io/badge/IP_Addressing-IPv4%20%7C%20IPv6%20%7C%20Subnetting-FF6B00?style=flat-square&logo=cloudflare&logoColor=white)
 
 ### Monitoring & Management
 ![Network Monitoring](https://img.shields.io/badge/Monitoring-SNMP%20%7C%20Syslog%20%7C%20NTP-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Documentation-Topology_Diagram-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)
-![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=chartdotjs&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=databricks&logoColor=white)
 
 ### Development & Automation
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Web_Apps-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
@@ -146,7 +146,7 @@ Project documentation & reports • Team coordination • Progress monitoring �
 
 Modern, responsive portfolio showcasing network engineering expertise, Juniper certifications, and technical projects in IoT, web development, and data mining.
 
-**Tech Stack:** React, Vite, JavaScript, CSS3  
+**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 **Features:** Dark/Light Mode, Project Demos, CV Download, SEO Optimized
 
 </td>
@@ -158,7 +158,7 @@ Modern, responsive portfolio showcasing network engineering expertise, Juniper c
 
 Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, relay, and PIR sensor. 
 
-**Tech Stack:** C/C++, Arduino  
+**Tech Stack:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
 **Components:** Keypad, RFID, LCD Display, Real-time Clock  
 **Features:** Multi-authentication, Real-time Logging
 
@@ -174,7 +174,7 @@ Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, 
 
 Web-based POS and inventory management system with user management, master data, sales transactions, and Excel import/export.   
 
-**Tech Stack:** CodeIgniter 3 & 4, Bootstrap, MySQL  
+**Tech Stack:** ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 **Features:** Role-based Access, Reporting, Responsive Design
 
 </td>
@@ -186,7 +186,7 @@ Web-based POS and inventory management system with user management, master data,
 
 Undergraduate thesis project Implementation of Data Mining Sales of Over-the-counter Drugs with Apriori Algorithm (Case Study:  Kimia Farma Pharmacy Summarecon Bekasi).
 
-**Tech Stack:** CodeIgniter 3, Bootstrap 4, MySQL  
+**Tech Stack:** ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 **Features:** Pattern Discovery, Data Visualization, Business Intelligence  
 **Achievement:** Graduated with **Cum Laude** distinction
 
@@ -201,7 +201,7 @@ Undergraduate thesis project Implementation of Data Mining Sales of Over-the-cou
 
 Comprehensive network monitoring and reporting solution for enterprise infrastructure management with automated data collection.   
 
-**Tech Stack:** Python  
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 **Features:** Automated Collection, Performance Metrics, Reporting
 
 </td>
@@ -216,7 +216,7 @@ Additional repositories for academic projects, network automation scripts, and i
 **Categories:** Academic Projects • Automation Scripts • Internal Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/wokding?tab=repositories)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/wokding?tab=repositories)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://github.com/wokding?tab=repositories)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/wokding?tab=repositories)
 
 </td>
@@ -287,8 +287,8 @@ Check out my [GitHub profile](https://github.com/wokding) to see recent contribu
 
 Event planning & committee management • Collaboration coordination • National media coverage
 
-[![Media Coverage](https://img.shields.io/badge/Media_Coverage-Liputan6.com-E60012?style=flat-square&logo=googlenews&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
-[![Event](https://img.shields.io/badge/Poetry_Night-Harmoni_Simfoni-9B59B6?style=flat-square&logo=eventbrite&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
+[![Media Coverage](https://img.shields.io/badge/Media_Coverage-Liputan6.com-E60012?style=flat-square&logo=medium&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
+[![Event](https://img.shields.io/badge/Poetry_Night-Harmoni_Simfoni-9B59B6?style=flat-square&logo=star&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
 
 ---
 
@@ -317,7 +317,7 @@ Event planning & committee management • Collaboration coordination • Nationa
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.google.com/maps/place/Bekasi">
-    <img src="https://img.shields.io/badge/Location-Bekasi-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/Location-Bekasi-FF6B6B?style=for-the-badge&logo=googleearth&logoColor=white" alt="Location"/>
   </a>
 </p>
 
