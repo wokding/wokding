@@ -115,7 +115,7 @@ Project documentation & reports • Team coordination • Progress monitoring �
 ### Infrastructure
 ![Juniper](https://img.shields.io/badge/Juniper_JunOS-MX%20%7C%20EX%20%7C%20SRX-00C18E?style=flat-square&logo=juniper-networks&logoColor=white)
 ![High Availability](https://img.shields.io/badge/High_Availability-Load_Balancing-00C18E?style=flat-square&logo=scaleway&logoColor=white)
-![Protocols](https://img.shields.io/badge/Protocols-STP%20%7C%20RSTP%20%7C%20MSTP%20%7C%20MC--LAG-00C18E?style=flat-square&logo=protocols&logoColor=white)
+![Protocols](https://img.shields.io/badge/Protocols-STP%20%7C%20RSTP%20%7C%20MSTP%20%7C%20MC--LAG-00C18E?style=flat-square&logo=ethernet&logoColor=white)
 
 ### Security
 ![Firewall](https://img.shields.io/badge/Firewall-Network_Security-FF6B00?style=flat-square&logo=pfsense&logoColor=white)
@@ -125,7 +125,7 @@ Project documentation & reports • Team coordination • Progress monitoring �
 ![Network Monitoring](https://img.shields.io/badge/Monitoring-SNMP%20%7C%20Syslog%20%7C%20NTP-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Documentation-Topology_Diagram-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)
-![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=cacti&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=chartdotjs&logoColor=white)
 
 ### Development & Automation
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -141,7 +141,7 @@ Project documentation & reports • Team coordination • Progress monitoring �
 <td width="50%" valign="top">
 
 ### [Professional Portfolio Website](https://github.com/wokding/ade-portfolio)
-[![Portfolio](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel&logoColor=white)](https://wokding.github.io/ade-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=github&logoColor=white)](https://wokding.github.io/ade-portfolio/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/wokding/ade-portfolio)
 
 Modern, responsive portfolio showcasing network engineering expertise, Juniper certifications, and technical projects in IoT, web development, and data mining.
@@ -154,7 +154,7 @@ Modern, responsive portfolio showcasing network engineering expertise, Juniper c
 
 ### [IoT Smart Door Lock System](https://github.com/wokding/arduino-doorlock-NEW)
 [![Arduino](https://img.shields.io/badge/Arduino-C++-00979D?style=flat-square&logo=arduino&logoColor=white)](https://github.com/wokding/arduino-doorlock-NEW)
-[![Demo](https://img.shields.io/badge/Wokwi-Simulation-4CAF50?style=flat-square&logo=wokwi&logoColor=white)](https://wokwi.com/projects/439156597558534145)
+[![Demo](https://img.shields.io/badge/Wokwi-Simulation-4CAF50?style=flat-square&logo=arduino&logoColor=white)](https://wokwi.com/projects/439156597558534145)
 
 Secure access control system with keypad 4x4, I2C LCD, DS3231 RTC, servo motor, relay, and PIR sensor. 
 
