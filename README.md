@@ -65,8 +65,8 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 <td width="50%">
 
 **Network Engineer**  
-![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=office&logoColor=white)
-![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green?style=flat-square&logo=calendar&logoColor=white)
+![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=microsoft&logoColor=white)
+![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green?style=flat-square&logo=googlenews&logoColor=white)
 
 Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equipment • Network monitoring & incident management • Documentation & topology diagrams
 
@@ -74,8 +74,8 @@ Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equi
 <td width="50%">
 
 **IT Support Technician**  
-![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=office&logoColor=white)
-![Period](https://img.shields.io/badge/Apr_2018-Feb_2023-blue?style=flat-square&logo=calendar&logoColor=white)
+![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=microsoft&logoColor=white)
+![Period](https://img.shields.io/badge/Apr_2018-Feb_2023-blue?style=flat-square&logo=googlenews&logoColor=white)
 
 Hardware/software support • PC/laptop/peripheral maintenance • Windows OS troubleshooting • Network support (LAN, Wi-Fi, IP addressing) • IT ticketing system
 
@@ -85,8 +85,8 @@ Hardware/software support • PC/laptop/peripheral maintenance • Windows OS tr
 <td width="50%">
 
 **IT Consultant**  
-![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square&logo=medkit&logoColor=white)
-![Period](https://img.shields.io/badge/Jan_2018-Sep_2018-orange?style=flat-square&logo=calendar&logoColor=white)
+![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square&logo=hospitalrun&logoColor=white)
+![Period](https://img.shields.io/badge/Jan_2018-Sep_2018-orange?style=flat-square&logo=googlenews&logoColor=white)
 
 On-site IT support for pharmacy branches • POS system maintenance • Network infrastructure setup • User training & system stability
 
@@ -94,8 +94,8 @@ On-site IT support for pharmacy branches • POS system maintenance • Network 
 <td width="50%">
 
 **Administration Project**  
-![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square&logo=files&logoColor=white)
-![Period](https://img.shields.io/badge/Jun_2016-Aug_2017-purple?style=flat-square&logo=calendar&logoColor=white)
+![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square&logo=gitbook&logoColor=white)
+![Period](https://img.shields.io/badge/Jun_2016-Aug_2017-purple?style=flat-square&logo=googlenews&logoColor=white)
 
 Project documentation & reports • Team coordination • Progress monitoring • Document control & correspondence
 
@@ -114,18 +114,18 @@ Project documentation & reports • Team coordination • Progress monitoring �
 
 ### Infrastructure
 ![Juniper](https://img.shields.io/badge/Juniper_JunOS-MX%20%7C%20EX%20%7C%20SRX-00C18E?style=flat-square&logo=juniper-networks&logoColor=white)
-![High Availability](https://img.shields.io/badge/High_Availability-Load_Balancing-00C18E?style=flat-square&logo=serverless&logoColor=white)
-![Protocols](https://img.shields.io/badge/Protocols-STP%20%7C%20RSTP%20%7C%20MSTP%20%7C%20MC--LAG-00C18E?style=flat-square&logo=ethernet&logoColor=white)
+![High Availability](https://img.shields.io/badge/High_Availability-Load_Balancing-00C18E?style=flat-square&logo=elastic&logoColor=white)
+![Protocols](https://img.shields.io/badge/Protocols-STP%20%7C%20RSTP%20%7C%20MSTP%20%7C%20MC--LAG-00C18E?style=flat-square&logo=ethereum&logoColor=white)
 
 ### Security
-![Firewall](https://img.shields.io/badge/Firewall-Network_Security-FF6B00?style=flat-square&logo=shield&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-Network_Security-FF6B00?style=flat-square&logo=fireship&logoColor=white)
 ![IP Addressing](https://img.shields.io/badge/IP_Addressing-IPv4%20%7C%20IPv6%20%7C%20Subnetting-FF6B00?style=flat-square&logo=cloudflare&logoColor=white)
 
 ### Monitoring & Management
 ![Network Monitoring](https://img.shields.io/badge/Monitoring-SNMP%20%7C%20Syslog%20%7C%20NTP-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Incident_Management-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Documentation-Topology_Diagram-4CAF50?style=flat-square&logo=readthedocs&logoColor=white)
-![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=databricks&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-Network_Monitoring-4CAF50?style=flat-square&logo=datadog&logoColor=white)
 
 ### Development & Automation
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -287,8 +287,8 @@ Check out my [GitHub profile](https://github.com/wokding) to see recent contribu
 
 Event planning & committee management • Collaboration coordination • National media coverage
 
-[![Media Coverage](https://img.shields.io/badge/Media_Coverage-Liputan6.com-E60012?style=flat-square&logo=medium&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
-[![Event](https://img.shields.io/badge/Poetry_Night-Harmoni_Simfoni-9B59B6?style=flat-square&logo=star&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
+[![Media Coverage](https://img.shields.io/badge/Media_Coverage-Liputan6.com-E60012?style=flat-square&logo=rss&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
+[![Event](https://img.shields.io/badge/Poetry_Night-Harmoni_Simfoni-9B59B6?style=flat-square&logo=sparkpost&logoColor=white)](https://www.liputan6.com/citizen6/read/3204154/malam-puisi-ala-ukm-pena-muda-universitas-bhayangkara-bekasi)
 
 ---
 
@@ -317,7 +317,7 @@ Event planning & committee management • Collaboration coordination • Nationa
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.google.com/maps/place/Bekasi">
-    <img src="https://img.shields.io/badge/Location-Bekasi-FF6B6B?style=for-the-badge&logo=googleearth&logoColor=white" alt="Location"/>
+    <img src="https://img.shields.io/badge/Location-Bekasi-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   </a>
 </p>
 
