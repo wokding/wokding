@@ -104,7 +104,7 @@ Project documentation & reports • Team coordination • Progress monitoring �
 ## Technical Skills
 
 ### Routing & Switching
-![Network Design](https://img.shields.io/badge/Network_Design-Operations-0066cc?style=flat-square&logo=cisco&logoColor=white)
+![Network Design](https://img.shields.io/badge/Network_Design-Operations-0066cc?style=flat-square&logo=juniper-networks&logoColor=white)
 ![Routing](https://img.shields.io/badge/Routing-BGP%20%7C%20OSPF%20%7C%20IS--IS-0066cc?style=flat-square&logo=juniper-networks&logoColor=white)
 ![WAN](https://img.shields.io/badge/WAN-LAN%20%7C%20VPN%20%7C%20MPLS-0066cc?style=flat-square&logo=cloudflare&logoColor=white)
 
