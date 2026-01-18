@@ -65,8 +65,8 @@ Network Engineer with expertise in designing, implementing, and maintaining **hi
 <td width="50%">
 
 **🔹 Network Engineer**  
-![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square)
-![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green?style=flat-square)
+![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=building&logoColor=white)
+![Period](https://img.shields.io/badge/Feb_2023-Dec_2025-green?style=flat-square&logo=calendar&logoColor=white)
 
 Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equipment • Network monitoring & incident management • Documentation & topology diagrams
 
@@ -74,8 +74,8 @@ Design & maintain LAN/WAN/VPN infrastructures • Configure Juniper network equi
 <td width="50%">
 
 **🔹 IT Support Technician**  
-![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square)
-![Period](https://img.shields.io/badge/Apr_2018-Feb_2023-blue?style=flat-square)
+![NEC](https://img.shields.io/badge/PT_NEC_Indonesia-0066cc?style=flat-square&logo=building&logoColor=white)
+![Period](https://img.shields.io/badge/Apr_2018-Feb_2023-blue?style=flat-square&logo=calendar&logoColor=white)
 
 Hardware/software support • PC/laptop/peripheral maintenance • Windows OS troubleshooting • Network support (LAN, Wi-Fi, IP addressing) • IT ticketing system
 
@@ -85,8 +85,8 @@ Hardware/software support • PC/laptop/peripheral maintenance • Windows OS tr
 <td width="50%">
 
 **🔹 IT Consultant**  
-![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square)
-![Period](https://img.shields.io/badge/Jan_2018-Sep_2018-orange?style=flat-square)
+![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square&logo=building&logoColor=white)
+![Period](https://img.shields.io/badge/Jan_2018-Sep_2018-orange?style=flat-square&logo=calendar&logoColor=white)
 
 On-site IT support for pharmacy branches • POS system maintenance • Network infrastructure setup • User training & system stability
 
@@ -94,8 +94,8 @@ On-site IT support for pharmacy branches • POS system maintenance • Network 
 <td width="50%">
 
 **🔹 Administration Project**  
-![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square)
-![Period](https://img.shields.io/badge/Jun_2016-Aug_2017-purple?style=flat-square)
+![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square&logo=building&logoColor=white)
+![Period](https://img.shields.io/badge/Jun_2016-Aug_2017-purple?style=flat-square&logo=calendar&logoColor=white)
 
 Project documentation & reports • Team coordination • Progress monitoring • Document control & correspondence
 
@@ -269,7 +269,7 @@ Check out my [GitHub profile](https://github.com/wokding) to see recent contribu
 ## 🎓 Education
 
 **Bachelor of Computer Science** • Universitas Bhayangkara Jakarta Raya  
-![Cum Laude](https://img.shields.io/badge/🏅_Cum_Laude-GPA_3.59/4.00-FFD700?style=flat-square) ![Period](https://img.shields.io/badge/📅_2017-2021-0066cc?style=flat-square)
+![Cum Laude](https://img.shields.io/badge/🏅_Cum_Laude-GPA_3.59/4.00-FFD700?style=flat-square&logo=award&logoColor=white) ![Period](https://img.shields.io/badge/📅_2017-2021-0066cc?style=flat-square&logo=calendar&logoColor=white)
 
 **Focus:** Computer Networks • Information Systems • Software Development  
 **Thesis:** *Implementation of Data Mining Sales of Over-the-counter Drugs with Apriori Algorithm (Case Study: Kimia Farma Pharmacy Summarecon Bekasi)*
