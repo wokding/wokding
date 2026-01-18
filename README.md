@@ -238,7 +238,7 @@ Additional repositories for academic projects, network automation scripts, and i
 <br><strong>Followers</strong>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/stars/wokding? label=Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/wokding?label=Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="Stars"/>
 <br><strong>Total Stars</strong>
 </td>
 </tr>
