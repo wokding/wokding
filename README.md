@@ -230,7 +230,7 @@ Additional repositories for academic projects, network automation scripts, and i
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Profile_Views-58-0066cc?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Profile_Views-58-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
 <br><strong>Profile Views</strong>
 </td>
 <td align="center">
@@ -244,7 +244,7 @@ Additional repositories for academic projects, network automation scripts, and i
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Repositories-View%20All-0066cc?style=for-the-badge&logo=folder&logoColor=white" alt="Repos"/>
+<img src="https://img.shields.io/badge/Repositories-View%20All-0066cc?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
 <br><strong>Public Repositories</strong>
 </td>
 <td align="center">
