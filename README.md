@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">Network Engineer | Juniper Certified (JNCIS-SP & JNCIA-Junos | BNSP Certified Junior Web Developer | IoT Enthusiast</h3>
+<h3 align="center">Network Engineer | Juniper Certified (JNCIS-SP & JNCIA-Junos | BNSP Certified Junior Web Developer</h3>
 
 <p align="center">
   <em>"My career journey from IT Support to Network Engineering has taught me that great infrastructure starts with understanding end-user needs and operational realities. I approach every network design with a focus on reliability, performance, and maintainability—ensuring systems not only work today, but remain scalable and supportable for years to come. Whether troubleshooting a critical outage, implementing new routing protocols, or coordinating with field teams, I bring a balanced perspective of technical depth and practical operational experience."</em>
