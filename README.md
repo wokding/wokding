@@ -21,7 +21,11 @@
 
 ## About Me
 
-Network Engineer with expertise in designing, implementing, and maintaining **high-availability network infrastructures** for enterprise and mission-critical environments. Experienced in operational excellence, incident management, and continuous service improvement, with strong attention to reliability, documentation, and teamwork.
+Network Engineer with a proven track record of growth from IT Support Technician to Enterprise Network Engineering role. Over 7+ years of progressive experience in IT infrastructure and telecommunications environments, combining hands-on technical expertise with strategic network planning and implementation.
+
+My journey began providing frontline IT support and on-site engineering services, where I developed strong troubleshooting skills and deep understanding of end-user needs. This foundation proved invaluable as I transitioned into network engineering, specializing in enterprise routing, switching, WAN architectures, and IP-based network infrastructure design.
+
+Currently focused on maintaining high-availability network environments for mission-critical business operations. Juniper-certified professional (JNCIS-SP, JNCIA-Junos) with expertise in BGP, OSPF, IS-IS, MPLS, and network security. Experienced in managing large-scale infrastructure projects, coordinating with cross-functional teams, and delivering technical solutions that balance performance, security, and operational efficiency.
 
 - **Core Expertise:** Enterprise Network Design & Operations
 - **Specialization:** Juniper JunOS (MX, EX, SRX Series)
