@@ -87,7 +87,7 @@ Hardware/software support • PC/laptop/peripheral maintenance • Windows OS tr
 <td width="50%" valign="top">
 
 **IT Consultant**  
-![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square&logo=gitbook&logoColor=white) ![Period](https://img.shields.io/badge/Jan_2018-Sep_2018-orange?style=flat-square&logo=googlenews&logoColor=white)
+![Kimia Farma](https://img.shields.io/badge/PT_Kimia_Farma_Apotek-FF6B00?style=flat-square&logo=gitbook&logoColor=white) ![Period](https://img.shields.io/badge/Apr_2018-Sep_2021-orange?style=flat-square&logo=googlenews&logoColor=white)
 
 On-site IT support for pharmacy branches • POS system maintenance • Network infrastructure setup • User training & system stability
 
@@ -95,7 +95,7 @@ On-site IT support for pharmacy branches • POS system maintenance • Network 
 <td width="50%" valign="top">
 
 **Administration Project**  
-![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square&logo=gitbook&logoColor=white) ![Period](https://img.shields.io/badge/Jun_2016-Aug_2017-purple?style=flat-square&logo=googlenews&logoColor=white)
+![Wings Food](https://img.shields.io/badge/PT_Tirta_Alam_Segar-purple?style=flat-square&logo=gitbook&logoColor=white) ![Period](https://img.shields.io/badge/Jan_2016-Aug_2017-purple?style=flat-square&logo=googlenews&logoColor=white)
 
 Project documentation & reports • Team coordination • Progress monitoring • Document control & correspondence
 
