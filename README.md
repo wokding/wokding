@@ -343,7 +343,7 @@ Event planning & committee management • Collaboration coordination • Nationa
 
 <div align="center">
 
-### "Focused on maintaining high-availability and secure network infrastructures in enterprise and mission-critical environments"
+### "Let's Connect and Grow Together"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00ccff&height=120&section=footer" />
 
